@@ -57,9 +57,8 @@ landing-page-[nome-da-sua-preferencia]/
 │
 ├── css/
 │   ├── reset.css
-│   ├── variables.css
-│   ├── style.css
-│   └── responsive.css
+│   ├── responsive.css
+│   └── style.css
 │
 ├── js/
 │   └── main.js
