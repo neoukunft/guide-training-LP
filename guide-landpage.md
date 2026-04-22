@@ -172,6 +172,6 @@ Links:
 
 ### PASSO 6 — Publicar
 
-- Subir no GitHub
+- [Subir no GitHub](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)
 - [Ativar GitHub Pages](https://docs.github.com/pt/pages/quickstart)
 - Validar no navegador real
