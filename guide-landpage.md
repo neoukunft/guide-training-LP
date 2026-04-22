@@ -138,10 +138,10 @@ landing-page-[algum-nome-aqui]/
 
 Links:
 
-[HTML Responsive Web Design](https://www.w3schools.com/html/html_responsive.asp)
-[Responsive Web Design](https://www.w3schools.com/css/css_rwd_intro.asp)
-[Responsive Web Design - Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-[W3.CSS Responsive Fluid Grid](https://www.w3schools.com/w3css/w3css_responsive.asp)
+- [HTML Responsive Web Design](https://www.w3schools.com/html/html_responsive.asp)
+- [Responsive Web Design](https://www.w3schools.com/css/css_rwd_intro.asp)
+- [Responsive Web Design - Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+- [W3.CSS Responsive Fluid Grid](https://www.w3schools.com/w3css/w3css_responsive.asp)
 
 
 ### PASSO 4 — Responsividade
