@@ -1,19 +1,6 @@
-# Landing Page Clone
+# Escopo
 
-Projeto simples com foco em aprender **HTML + CSS na prática**, reproduzindo uma [landing page a partir de um template do Figma.](https://github.com/neoukunft/ozymandias/blob/main/references-landing-pages.md)
-
-## Objetivo
-
-Treinar:
-
-- Estruturação semântica (HTML)
-- Estilização organizada (CSS)
-- Responsividade
-- SEO básico
-
-## Escopo
-
-A proposta não é criar algo original, mas **copiar fielmente um layout existente**, entendendo como ele foi construído.
+A proposta não é criar algo original, mas **copiar fielmente um layout existente**, entendendo como ele foi construído. [Link de referencias](https://github.com/neoukunft/ozymandias/blob/main/references-landing-pages.md)
 
 ## Regra de ouro pra iniciante
 
