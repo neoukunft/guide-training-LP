@@ -1,6 +1,6 @@
 # Guide Base
 
-Guia base para iniciantes irem treinando uma reproduzição de uma landing page a partir de um template do Figma, com foco em fundamentos de HTML, CSS, responsividade e SEO.
+Guia base para iniciantes irem treinando a reprodução de uma landing page a partir de um template do Figma, com foco em fundamentos de HTML, CSS, responsividade e SEO.
 
 Demais dúvidas:
 
