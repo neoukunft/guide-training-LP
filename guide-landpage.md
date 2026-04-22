@@ -53,7 +53,7 @@ landing-page-[algum-nome-aqui]/
 │
 ├── css/
 │   ├── reset.css
-│   ├── variables.css
+│   ├── variables.css (opcional)
 │   ├── style.css
 │   └── responsive.css
 │
@@ -84,7 +84,7 @@ landing-page-[algum-nome-aqui]/
 ### `/css`
 
 - `reset.css` → zera bagunça dos navegadores
-- `variables.css` → cores, fontes, espaçamentos
+- `variables.css` → cores, fontes, espaçamentos (opcional)
 - `style.css` → layout principal
 - `responsive.css` → media queries separadas (iniciante entende melhor)
 
