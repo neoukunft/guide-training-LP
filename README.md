@@ -1,11 +1,14 @@
 # Guide Base
 
-Guia base para iniciantes irem treinando uma reproduzição de uma landing page a partir de um template do Figma, com foco em fundamentos de HTML, CSS, responsividade e SEO. Copie o texto abaixo no seu README.md
+Guia base para iniciantes irem treinando uma reproduzição de uma landing page a partir de um template do Figma, com foco em fundamentos de HTML, CSS, responsividade e SEO.
 
 Demais dúvidas:
 
 * [Guia para começar e estruturar](https://github.com/neoukunft/ozymandias/blob/main/guide-landpage.md)
 * [Referências para usar e abusar gratuitamente](https://github.com/neoukunft/ozymandias/blob/main/references-landing-pages.md)
+
+
+> Copie o texto abaixo no seu README.md
 
 ---
 
