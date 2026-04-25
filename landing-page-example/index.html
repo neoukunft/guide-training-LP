@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sua Landing Page - Example</title>
+    <!-- CSS Estilos -->
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+
+<body class="flex flex-col items-center justify-center">
+
+    <main class="container flex flex-col gap-32">
+        <header class="flex flex-col items-center gap-16 text-center">
+            <h1 style="font-size: 2.5rem;">🎉 Estrutura Inicial Criada!</h1>
+            <p style="font-size: 1.2rem;">Sua pasta <strong>landing-page-example</strong> está pronta para ser
+                modificada. Comece criando sua estrutura mágica!</p>
+
+            <a href="https://github.com/neoukunft/guide-training-LP" target="_blank"
+                class="btn flex flex-row items-center gap-16">
+                <!-- GitHub Icon -->
+                <svg height="24" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="24" fill="currentColor">
+                    <path
+                        d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+                    </path>
+                </svg>
+                Visitar Repositório Original
+            </a>
+        </header>
+
+        <section class="card flex flex-col gap-24">
+            <h2 style="font-size: 1.8rem;">⚡ Como executar seu projeto localmente?</h2>
+            <p>Para não precisar atualizar a página toda vez que alterar um código, utilize o <strong>Live
+                    Server</strong>. Ele atualiza automaticamente seu navegador em tempo real!</p>
+
+            <div class="grid grid-cols-2 responsive-grid-1 gap-32">
+                <div class="flex flex-col gap-16">
+                    <h3 style="font-size: 1.2rem;">🔌 Opção 1: Extensão do VS Code</h3>
+                    <p>Se você usa o Visual Studio Code, a forma mais fácil é instalar a extensão <strong>Live
+                            Server</strong> criada por Ritwick Dey. Depois é só clicar em "Go Live" na barra inferior.
+                    </p>
+                    <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" target="_blank"
+                        class="link-blue">Baixar Extensão VS Code &rarr;</a>
+                </div>
+
+                <div class="flex flex-col gap-16">
+                    <h3 style="font-size: 1.2rem;">📦 Opção 2: Pacote NPM</h3>
+                    <p>Se preferir usar o terminal e já tem o Node.js instalado, você pode usar o pacote npm oficial de
+                        forma global ou direta (sem baixar) via <code>npx</code>:</p>
+                    <p class="code-block">npx live-server</p>
+                    <a href="https://www.npmjs.com/package/live-server" target="_blank" class="link-blue">Acessar Pacote
+                        NPM &rarr;</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+</body>
+
+</html>

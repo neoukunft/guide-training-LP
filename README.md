@@ -4,8 +4,8 @@ Guia base para iniciantes irem treinando a reprodução de uma landing page a pa
 
 Demais dúvidas:
 
-* [Guia para começar e estruturar](https://github.com/neoukunft/ozymandias/blob/main/guide-landpage.md)
-* [Referências para usar e abusar gratuitamente](https://github.com/neoukunft/ozymandias/blob/main/references-landing-pages.md)
+* [Guia para começar e estruturar](docs/guide-landpage.md)
+* [Referências para usar e abusar gratuitamente](docs/references-landing-pages.md)
 
 
 > Copie o texto abaixo, faça as devidas alterações e cole no seu README.md
@@ -121,3 +121,21 @@ Uma landing page:
 ---
 
 > Foco não é perfeição visual. Foco é entender como construir.
+
+---
+
+## ⚡ Como executar localmente
+
+Para ter a melhor experiência ao desenvolver sua landing page e ver suas alterações em tempo real, recomendamos o uso de um servidor local como o **Live Server**:
+
+* **Pelo VS Code**: Instale a extensão do [Live Server por Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). Após a instalação, existe um pequeno botão escrito "Go Live" disponível na barra inferior direita do editor. Basta clicar!
+* **Pelo NPM (Node.js)**: Caso utilize linha de comando e tenha o Node.js instalado, você pode executar o utilitário [live-server do npm](https://www.npmjs.com/package/live-server) rodando o seguinte comando dentro da pasta do projeto:
+  ```bash
+  npx live-server
+  ```
+
+---
+
+## 🎯 Como usar este repositório
+
+Você pode baixar este repositório como um arquivo ZIP e usar a pasta `landing-page-example` como base para criar sua própria landing page, ou você pode seguir os guias da pasta `docs/` para construir a sua estrutura do zero!

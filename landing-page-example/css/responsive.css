@@ -1,0 +1,78 @@
+/* 
+  Arquivo focado especificamente em Media Queries e utilitários de layout
+  Geralmente utilizado para organizar breakpoints para mobile, tablet e desktop.
+*/
+
+/* ===========================
+   FLEXBOX UTILITÁRIOS BASE
+============================== */
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.gap-16 { gap: 1rem; }
+.gap-24 { gap: 1.5rem; }
+.gap-32 { gap: 2rem; }
+
+/* ===========================
+   GRID UTILITÁRIOS BASE
+============================== */
+.grid {
+    display: grid;
+}
+
+.grid-cols-2 {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.grid-cols-3 {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.grid-cols-4 {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+/* ===========================
+   MEDIA QUERIES (Até 768px - Tablet/Mobile)
+============================== */
+@media (max-width: 768px) {
+    
+    /* Utilitários Flex responsivos */
+    .responsive-flex-col {
+        flex-direction: column;
+    }
+    
+    .responsive-flex-row {
+        flex-direction: row;
+    }
+
+    /* Utilitários Grid responsivos (muda para 1 coluna em telas menores) */
+    .responsive-grid-1 {
+        grid-template-columns: 1fr;
+    }
+
+    .responsive-grid-2 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
