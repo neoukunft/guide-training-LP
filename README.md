@@ -37,6 +37,11 @@ Demais dúvidas:
 * Ajustar layout para mobile e tablet
 * Usar media queries
 
+### 4. SEO básico
+
+* Meta tags no `<head>`
+* Hierarquia de headings (`h1`, `h2`, `h3`)
+
 ---
 
 ## 🎯 Como usar este repositório
@@ -130,8 +135,3 @@ landing-page-[nome-da-sua-preferencia]/
     ├── sitemap.xml
     └── robots.txt
 ```
-
-### 4. SEO básico
-
-* Meta tags no `<head>`
-* Hierarquia de headings (`h1`, `h2`, `h3`)
