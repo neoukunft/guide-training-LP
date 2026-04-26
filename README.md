@@ -1,6 +1,6 @@
 # Guide Base
 
-> Foco não é perfeição visual. Foco é entender como construir.
+> 🎯 O objetivo não é perfeição visual. O foco é entender como construir.
 
 Guia base para iniciantes irem treinando a reprodução de uma landing page a partir de um template do Figma, com foco em fundamentos de HTML, CSS, responsividade e SEO.
 
@@ -76,7 +76,7 @@ Uma landing page:
 * Próxima do template original
   
 ---
-> Copie o texto abaixo, faça as devidas alterações e cole no seu README.md
+> 👇 Copie o texto abaixo, faça as devidas alterações e cole no seu README.md
 ---
 
 # Landing Page Clone
