@@ -9,9 +9,41 @@ Demais dúvidas:
 
 > Foco não é perfeição visual. Foco é entender como construir.
 
+---
+
+## 📏 Regras
+
+* ❌ Não usar frameworks (Bootstrap, Tailwind, etc.)
+* ❌ Não usar CSS inline
+* ✅ Nomear classes de forma clara
+* ✅ Separar HTML e CSS corretamente
+
+---
+
+## 🚀 Etapas
+
+### 1. HTML (estrutura)
+
+* Criar esqueleto da página
+* Usar tags semânticas
+
+### 2. CSS (estilo)
+
+* Aplicar layout, cores e tipografia
+* Separar arquivos por responsabilidade
+
+### 3. Responsividade
+
+* Ajustar layout para mobile e tablet
+* Usar media queries
+
+---
+
 ## 🎯 Como usar este repositório
 
 Você pode baixar este repositório como um arquivo ZIP e usar a pasta `landing-page-example` como base para criar sua própria landing page, ou você pode seguir os guias da pasta `docs/` para construir a sua estrutura do zero!
+
+---
 
 ## ⚡ Como executar localmente
 
@@ -22,16 +54,13 @@ Para ter a melhor experiência ao desenvolver sua landing page e ver suas altera
   ```bash
   npx live-server
   ```
-## 📏 Regras
-
-* ❌ Não usar frameworks (Bootstrap, Tailwind, etc.)
-* ❌ Não usar CSS inline
-* ✅ Nomear classes de forma clara
-* ✅ Separar HTML e CSS corretamente
+---
 
 ## 🌐 Deploy
 
 Publicar usando GitHub Pages.
+
+---
 
 ## 🧠 Resultado esperado
 
@@ -101,25 +130,6 @@ landing-page-[nome-da-sua-preferencia]/
     ├── sitemap.xml
     └── robots.txt
 ```
-
----
-
-## 🚀 Etapas
-
-### 1. HTML (estrutura)
-
-* Criar esqueleto da página
-* Usar tags semânticas
-
-### 2. CSS (estilo)
-
-* Aplicar layout, cores e tipografia
-* Separar arquivos por responsabilidade
-
-### 3. Responsividade
-
-* Ajustar layout para mobile e tablet
-* Usar media queries
 
 ### 4. SEO básico
 
