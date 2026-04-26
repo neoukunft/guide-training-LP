@@ -6,8 +6,8 @@ Guia base para iniciantes irem treinando a reprodução de uma landing page a pa
 
 Demais dúvidas:
 
-* [Guia para começar e estruturar](docs/guide-landpage.md)
-* [Referências gratuitas para usar](docs/references-landing-pages.md)
+👉 [Guia para começar e estruturar](docs/guide-landpage.md)
+👉 [Referências gratuitas para usar](docs/references-landing-pages.md)
 
 ---
 
