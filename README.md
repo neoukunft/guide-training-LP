@@ -1,5 +1,7 @@
 # Guide Base
 
+> Foco não é perfeição visual. Foco é entender como construir.
+
 Guia base para iniciantes irem treinando a reprodução de uma landing page a partir de um template do Figma, com foco em fundamentos de HTML, CSS, responsividade e SEO.
 
 Demais dúvidas:
@@ -7,9 +9,6 @@ Demais dúvidas:
 * [Guia para começar e estruturar](docs/guide-landpage.md)
 * [Referências para usar e abusar gratuitamente](docs/references-landing-pages.md)
 
-> Foco não é perfeição visual. Foco é entender como construir.
-
----
 
 ## 📏 Regras
 
